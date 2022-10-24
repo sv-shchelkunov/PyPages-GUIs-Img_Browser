@@ -1,0 +1,10 @@
+__pycache__/
+build/
+dist/
+lib/__pycache__/
+shch_img_browser_cfg/SergeyZeGreat.cfg
+shch_img_browser_cfg/shch_4.ico
+shch_img_browser_cfg/shch_8.ico
+shch_img_browser_cfg/shch_16.ico
+shch_img_browser_cfg/shch_32.ico
+Vault/
